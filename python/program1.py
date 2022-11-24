@@ -1,0 +1,6 @@
+t1 = tupple([10,20,30])
+print(t1)
+print(type(t1))
+t2 = tupple([10,20,30])
+print(t2)
+print(type(t2))
